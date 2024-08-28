@@ -1,25 +1,3 @@
-Pac-Man
-=======
-
-A historical tribute and accurate remake of the original Pac-Man arcade game
-
-Inspired by [The Pac-Man Dossier](http://home.comcast.net/~jpittman2/pacman/pacmandossier.html)
-
-### Under Construction
-
-- Sound
-- Cutscenes
-- 2 Player switch-off
-
-Contact me at shaunewilliams@gmail.com
-
-License
--------
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the **GNU General Public License Version 3** as 
-published by the Free Software Foundation.
-
 Play
 ----
 
